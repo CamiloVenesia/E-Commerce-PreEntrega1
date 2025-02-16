@@ -2,7 +2,7 @@ import './CartWidget.css';
 
 function CartWidget() {
     return (
-        <p>Icono carrito (4)</p>
+        <p>(4)</p>
     );
 };
 

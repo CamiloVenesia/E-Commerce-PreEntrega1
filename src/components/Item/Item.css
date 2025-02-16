@@ -16,10 +16,11 @@
     padding: 1rem;
     border-radius: 1rem;
     border: none;
-    background-color: cornsilk;
+    color: #F5DEB3;
+    background-color: #3d7b1c;
     cursor: pointer;
 }
 
 .card-btn:hover{
-    background-color: bisque;
+    background-color: #427d59;
 }
