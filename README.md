@@ -1,3 +1,8 @@
+Hola profe! Acá le comparto mi primer PreEntrega, la idea de e-commerce que estoy desarrollando es una tienda en línea dedicada a la venta de mates, termos, bombillas y otros accesorios, espero le guste la idea jaja! Quedo atento a a cualquier comentario o sugerencia.
+
+
+
+
 # React + Vite - Serie de pasos (Clase 1)
 
 - Creamos nuestra carpeta y abrimos VSC desde ahí.
